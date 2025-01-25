@@ -92,35 +92,35 @@ const Hero = () => {
               <div className="img-1">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-1.webp"
+                  src="/home/img-1.webp"
                   alt="not found"
                 />
               </div>
               <div className="img-2">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-2.webp"
+                  src="/home/img-2.webp"
                   alt="not found"
                 />
               </div>
               <div className="img-3">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-3.avif"
+                  src="/home/img-3.avif"
                   alt="not found"
                 />
               </div>
               <div className="img-4">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-4.webp"
+                  src="/home/img-4.webp"
                   alt="not found"
                 />
               </div>
               <div className="img-5">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-5.avif"
+                  src="/home/img-5.avif"
                   alt="not found"
                 />
               </div>
@@ -130,35 +130,35 @@ const Hero = () => {
               <div className="img-1">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-11.avif"
+                  src="/home/img-11.avif"
                   alt="not found"
                 />
               </div>
               <div className="img-2">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-12.webp"
+                  src="/home/img-12.webp"
                   alt="not found"
                 />
               </div>
               <div className="img-3">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-13.webp"
+                  src="/home/img-13.webp"
                   alt="not found"
                 />
               </div>
               <div className="img-4">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-14.avif"
+                  src="/home/img-14.avif"
                   alt="not found"
                 />
               </div>
               <div className="img-5">
                 <img
                   className="rounded-full"
-                  src="/src/assets/home/img-15.avif"
+                  src="/home/img-15.avif"
                   alt="not found"
                 />
               </div>

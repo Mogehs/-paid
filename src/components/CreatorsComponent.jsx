@@ -19,22 +19,34 @@ const CreatorsComponent = () => {
                 </Link>
               </li>
               <li className="mt-3">
-                <Link to="/creators#collaborations" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/creators#collaborations"
+                  className="text-[#878683] text-[12px]"
+                >
                   Find collaborations
                 </Link>
               </li>
               <li>
-                <Link to="/creators#director" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/creators#director"
+                  className="text-[#878683] text-[12px]"
+                >
                   Create content
                 </Link>
               </li>
               <li>
-                <Link to="/creators#automate" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/creators#automate"
+                  className="text-[#878683] text-[12px]"
+                >
                   Automate workflow
                 </Link>
               </li>
               <li>
-                <Link to="/creators#paid" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/creators#paid"
+                  className="text-[#878683] text-[12px]"
+                >
                   Get paid
                 </Link>
               </li>
@@ -78,17 +90,26 @@ const CreatorsComponent = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/connect-your-social-media" className="text-[#878683] text-[10px]">
+                <Link
+                  to="/connect-your-social-media"
+                  className="text-[#878683] text-[10px]"
+                >
                   Connecting your social account
                 </Link>
               </li>
               <li>
-                <Link to="/Opting-in-to-a-Campaign" className="text-[#878683] text-[10px]">
+                <Link
+                  to="/Opting-in-to-a-Campaign"
+                  className="text-[#878683] text-[10px]"
+                >
                   Opting in to a campaign
                 </Link>
               </li>
               <li>
-                <Link to="/collaborating-on-a-compaign" className="text-[#878683] text-[10px]">
+                <Link
+                  to="/collaborating-on-a-compaign"
+                  className="text-[#878683] text-[10px]"
+                >
                   Collaborating on a campaign
                 </Link>
               </li>
@@ -110,22 +131,34 @@ const CreatorsComponent = () => {
                 </Link>
               </li>
               <li>
-                <Link to="/events#on-demand" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/events#on-demand"
+                  className="text-[#878683] text-[12px]"
+                >
                   On demand
                 </Link>
               </li>
               <li>
-                <Link to="/meet-the-creators" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/meet-the-creators"
+                  className="text-[#878683] text-[12px]"
+                >
                   Meet the creators
                 </Link>
               </li>
               <li>
-                <Link to="/creator-marketing-summit-north" className="text-[#878683] text-[12px] ">
+                <Link
+                  to="/creator-marketing-summit-north"
+                  className="text-[#878683] text-[12px] "
+                >
                   Creator Marketing Summit North
                 </Link>
               </li>
               <li>
-                <Link to="/creator-marketing-summit" className="text-[#878683] text-[12px]">
+                <Link
+                  to="/creator-marketing-summit"
+                  className="text-[#878683] text-[12px]"
+                >
                   Creator Marketing Summit
                 </Link>
               </li>
@@ -137,7 +170,7 @@ const CreatorsComponent = () => {
         <Link to="/ai-principles" className="text-black ms-6 w-[300px]">
           <div className="flex justify-center">
             <img
-              src="/src/assets/Navbar/navbar.avif"
+              src="/Navbar/navbar.avif"
               alt="Featured"
               className="w-full h-54 rounded-[10%] mb-4 object-cover"
             />

@@ -22,7 +22,7 @@ const Section4 = () => {
         </div>
         <div className="side-two">
           <div className="img md:mt-0 mt-6">
-            <img src="/src/assets/home/section-four-img.avif" alt="not found" />
+            <img src="/home/section-four-img.avif" alt="not found" />
           </div>
         </div>
       </div>

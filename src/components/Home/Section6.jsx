@@ -54,7 +54,7 @@ const Section6 = () => {
             <div className="img md:h-[25rem] rounded-b-3xl mt-6 overflow-hidden">
               <img
                 className="rounded-3xl w-fit"
-                src="/src/assets/home/section-six-img.webp"
+                src="/home/section-six-img.webp"
                 alt="not found"
               />
             </div>
@@ -81,7 +81,7 @@ const Section6 = () => {
             <div className="img md:h-[25rem] rounded-b-3xl mt-6 overflow-hidden">
               <img
                 className="rounded-3xl w-fit"
-                src="/src/assets/home/section-six-img-2.webp"
+                src="/home/section-six-img-2.webp"
                 alt="not found"
               />
             </div>

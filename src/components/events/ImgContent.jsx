@@ -1,221 +1,220 @@
 const ImgContent = [
   {
-    id:"1",
-    image: '/src/assets/events/img1.jpg',
+    id: "1",
+    image: "/events/img1.jpg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"2",
-    image:'/src/assets/events/img2.jpg',
+    id: "2",
+    image: "/events/img2.jpg",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"3",
-   image: '/src/assets/events/img3.jpg',
+    id: "3",
+    image: "/events/img3.jpg",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"4",
-    image: '/src/assets/events/img4.jpg',
+    id: "4",
+    image: "/events/img4.jpg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"5",
-    image:'/src/assets/events/img5.jpg',
+    id: "5",
+    image: "/events/img5.jpg",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"6",
-   image: '/src/assets/events/img6.jpeg',
+    id: "6",
+    image: "/events/img6.jpeg",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"7",
-    image: '/src/assets/events/img7.jpeg',
+    id: "7",
+    image: "/events/img7.jpeg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"8",
-    image:'/src/assets/events/img8.jpeg',
+    id: "8",
+    image: "/events/img8.jpeg",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"9",
-   image: '/src/assets/events/img9.jpeg',
+    id: "9",
+    image: "/events/img9.jpeg",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"10",
-    image: '/src/assets/events/img10.jpeg',
+    id: "10",
+    image: "/events/img10.jpeg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"11",
-    image:'/src/assets/events/img11.jpeg',
+    id: "11",
+    image: "/events/img11.jpeg",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"12",
-   image: '/src/assets/events/img12.jpeg',
+    id: "12",
+    image: "/events/img12.jpeg",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"13",
-    image: '/src/assets/events/img13.jpeg',
+    id: "13",
+    image: "/events/img13.jpeg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"14",
-    image:'/src/assets/events/img14.png',
+    id: "14",
+    image: "/events/img14.png",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"15",
-   image: '/src/assets/events/img15.png',
+    id: "15",
+    image: "/events/img15.png",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"16",
-    image: '/src/assets/events/img16.png',
+    id: "16",
+    image: "/events/img16.png",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"17",
-    image:'/src/assets/events/img17.png',
+    id: "17",
+    image: "/events/img17.png",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"18",
-   image: '/src/assets/events/img18.png',
+    id: "18",
+    image: "/events/img18.png",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"19",
-    image: '/src/assets/events/img19.png',
+    id: "19",
+    image: "/events/img19.png",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"20",
-    image:'/src/assets/events/img11.jpeg',
+    id: "20",
+    image: "/events/img11.jpeg",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"21",
-   image: '/src/assets/events/img21.png',
+    id: "21",
+    image: "/events/img21.png",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"22",
-    image: '/src/assets/events/img13.jpeg',
+    id: "22",
+    image: "/events/img13.jpeg",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"23",
-    image:'/src/assets/events/img23.png',
+    id: "23",
+    image: "/events/img23.png",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"24",
-   image: '/src/assets/events/img24.png',
+    id: "24",
+    image: "/events/img24.png",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
   {
-    id:"25",
-    image: '/src/assets/events/img25.png',
+    id: "25",
+    image: "/events/img25.png",
     title: "Beautiful Landscape",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
   },
   {
-    id:"26",
-    image:'/src/assets/events/img26.png',
+    id: "26",
+    image: "/events/img26.png",
     title: "City at Night",
     description:
-       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
     button: "Watch More",
-   },
+  },
   {
-    id:"27",
-   image: '/src/assets/events/img27.png',
+    id: "27",
+    image: "/events/img27.png",
     title: "Ocean Waves",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus lacinia odio vitae vestibulum. Curabitur et sem vel ligula.",
-   button: "Watch More",
+    button: "Watch More",
   },
-
 ];
 
 export default ImgContent;

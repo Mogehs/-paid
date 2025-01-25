@@ -21,7 +21,7 @@ const Section2 = () => {
         </div>
         <div className="side-two">
           <div className="img md:mt-0 mt-4 ">
-            <img src="/src/assets/home/section-two-img.avif" alt="not found" />
+            <img src="/home/section-two-img.avif" alt="not found" />
           </div>
         </div>
       </div>

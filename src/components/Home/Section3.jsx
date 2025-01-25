@@ -4,10 +4,7 @@ const Section3 = () => {
       <div className="section-content flex md:flex-row flex-col justify-between items-center p-4">
         <div className="side-one">
           <div className="img">
-            <img
-              src="/src/assets/home/section-three-img.avif"
-              alt="not found"
-            />
+            <img src="/home/section-three-img.avif" alt="not found" />
           </div>
         </div>
         <div className="side-two flex flex-col md:text-center space-y-4">

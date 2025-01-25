@@ -4,10 +4,7 @@ const Section7 = () => {
       <div className="section-content flex md:flex-row flex-col md:justify-around md:items-center md:p-16 p-4">
         <div className="side-one">
           <div className="img">
-            <img
-              src="/src/assets/home/section-seven-img.webp"
-              alt="not found"
-            />
+            <img src="/home/section-seven-img.webp" alt="not found" />
           </div>
         </div>
 
