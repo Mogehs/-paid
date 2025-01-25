@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "../components/agencies/Hero";
 import TrustedBy from "../components/agencies/TrustedBy";
-import ImageSlider from "../components/agencies/ImageSlider";
+// import ImageSlider from "../components/agencies/ImageSlider";
 import CreatorNetwork from "../components/agencies/CreatorNetwork";
 import Strategy from "../components/agencies/Strategy";
 import QualityContent from "../components/agencies/QualityContent";
