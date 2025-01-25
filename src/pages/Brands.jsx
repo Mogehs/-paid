@@ -1,6 +1,6 @@
 import Hero from "../components/brands/Hero";
 import TrustedBy from "../components/brands/TrustedBy";
-// import Matching from "../components/brands/matching";
+import Matching from "../components/brands/matching";
 import Strategy from "../components/brands/Strategy";
 import QualityContent from "../components/brands/QualityContent";
 import Support from "../components/brands/Support";

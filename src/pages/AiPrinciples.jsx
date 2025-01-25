@@ -1,5 +1,5 @@
 import Apledge from "../components/ai-principles/Apledge";
-// import Hero from "../components/ai-principles/hero";
+import Hero from "../components/ai-principles/hero";
 import Principle1 from "../components/ai-principles/Principle1";
 import Principle2 from "../components/ai-principles/Principle2";
 import Principle3 from "../components/ai-principles/Principle3";
