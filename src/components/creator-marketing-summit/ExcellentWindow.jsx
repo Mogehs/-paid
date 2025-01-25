@@ -9,10 +9,7 @@ const ExcellentWindow = () => {
           brilliantly moderated with thought-provoking content.”
         </p>
         <div className="mt-12">
-          <img
-            src="/src/assets/creators-marketing-summit/atif-sheikh.svg"
-            alt=""
-          />
+          <img src="/creators-marketing-summit/atif-sheikh.svg" alt="" />
           <p className="font-customLight mt-3">Atif Shaikh</p>
           <p className="font-customLight">
             Senior Manager, Partner Marketing, Mejuri

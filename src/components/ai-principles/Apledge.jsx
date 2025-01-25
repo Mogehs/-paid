@@ -18,7 +18,7 @@ const Apledge = () => {
           </div>
           <div className="md:w-[40%] lg:w-[50%]">
             <img
-              src="/src/assets/ai-principles/674f1e9f9aeb0f4a9d46797e_ai-badge.avif"
+              src="/ai-principles/674f1e9f9aeb0f4a9d46797e_ai-badge.avif"
               alt=""
             />
           </div>

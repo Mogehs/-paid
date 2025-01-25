@@ -1,3 +1,4 @@
+import img from "/src/assets/home/section-seven-img.webp";
 const Section6 = () => {
   return (
     <div className="section-seven bg-[#000000] rounded-[3rem]">
@@ -37,10 +38,7 @@ const Section6 = () => {
         </div>
         <div className="side-one flex justify-end max-sm:mb-10 h-fit">
           <div className="img">
-            <img
-              src="/src/assets/home/section-seven-img.webp"
-              alt="not found"
-            />
+            <img src={img} alt="not found" />
           </div>
         </div>
       </div>

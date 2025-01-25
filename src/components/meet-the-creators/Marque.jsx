@@ -6,36 +6,12 @@ const Marque = () => {
       </h1>
 
       <div className="flex items-center max-sm:gap-10 gap-14 max-sm:w-[100%] w-[90%]">
-        <img
-          src="src/assets/creators/paramount-white.svg"
-          alt=""
-          className="h-5"
-        />
-        <img
-          src="src/assets/creators/infinity-white.svg"
-          alt=""
-          className="h-5"
-        />
-        <img
-          src="src/assets/creators/heroku-white.svg"
-          alt=""
-          className="h-5"
-        />
-        <img
-          src="src/assets/creators/nodestorm-white.svg"
-          alt=""
-          className="h-5"
-        />
-        <img
-          src="src/assets/creators/unilever-white.svg"
-          alt=""
-          className="h-16"
-        />
-        <img
-          src="src/assets/creators/otterbox-white.svg"
-          alt=""
-          className="h-7"
-        />
+        <img src="/creators/paramount-white.svg" alt="" className="h-5" />
+        <img src="/creators/infinity-white.svg" alt="" className="h-5" />
+        <img src="/creators/heroku-white.svg" alt="" className="h-5" />
+        <img src="/creators/nodestorm-white.svg" alt="" className="h-5" />
+        <img src="/creators/unilever-white.svg" alt="" className="h-16" />
+        <img src="/creators/otterbox-white.svg" alt="" className="h-7" />
       </div>
     </div>
   );

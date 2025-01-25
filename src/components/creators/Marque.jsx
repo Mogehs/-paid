@@ -8,12 +8,12 @@ const Marque = () => {
       </h1>
 
       <div className="flex items-center max-sm:gap-10 gap-14 max-sm:w-[100%] w-[90%]">
-        <img src="src/assets/creators/infinity.svg" alt="" className="h-5" />
-        <img src="src/assets/creators/sephora.svg" alt="" className="h-5" />
-        <img src="src/assets/creators/henkein.svg" alt="" className="h-5" />
-        <img src="src/assets/creators/nodestorm.svg" alt="" className="h-5" />
-        <img src="src/assets/creators/unilever.svg" alt="" className="h-16" />
-        <img src="src/assets/creators/paramount.svg" alt="" className="h-7" />
+        <img src="/creators/infinity.svg" alt="" className="h-5" />
+        <img src="/creators/sephora.svg" alt="" className="h-5" />
+        <img src="/creators/henkein.svg" alt="" className="h-5" />
+        <img src="/creators/nodestorm.svg" alt="" className="h-5" />
+        <img src="/creators/unilever.svg" alt="" className="h-16" />
+        <img src="/creators/paramount.svg" alt="" className="h-7" />
       </div>
     </div>
   );

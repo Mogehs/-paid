@@ -26,7 +26,7 @@ const NoteableSpeakers = () => {
           ].map((item) => (
             <>
               <img
-                src={`/src/assets/creators-marketing-summit/${item}`}
+                src={`/creators-marketing-summit/${item}`}
                 alt=""
                 className="h-[5rem] w-[8rem] object-contain leading-none"
               />

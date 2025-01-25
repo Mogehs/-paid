@@ -7,34 +7,30 @@ const ImageSlider = () => {
         Join thousand of creators
       </h1>
       <div className="h-[50vh] rounded-lg mt-10 flex justify-center items-center">
-        <marquee
-          behavior=""
-          direction="right"
-          className="overflow-hidden h-full "
-        >
+        <marquee direction="right" className="overflow-hidden h-full ">
           <div className="flex justify-center items-center gap-10">
             <img
-              src="/src/assets/creators/creator1.webp"
+              src="/creators/creator1.webp"
               alt=""
               className="object-cover h-[50vh] rounded-lg"
             />
             <img
-              src="/src/assets/creators/creator2.webp"
+              src="/creators/creator2.webp"
               alt=""
               className="object-cover h-[50vh] rounded-lg"
             />
             <img
-              src="/src/assets/creators/creator3.webp"
+              src="/creators/creator3.webp"
               alt=""
               className="object-cover h-[50vh] rounded-lg"
             />
             <img
-              src="/src/assets/creators/creator4.webp"
+              src="/creators/creator4.webp"
               alt=""
               className="object-cover h-[50vh] rounded-lg"
             />
             <img
-              src="/src/assets/creators/creator5.webp"
+              src="/creators/creator5.webp"
               alt=""
               className="object-cover h-[50vh] rounded-lg"
             />

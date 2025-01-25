@@ -31,7 +31,7 @@ const Section1 = () => {
       </div>
       <div className="m-10 w-[20rem] md:w-[48rem] lg:w-[60rem] h-[25rem] lg:h-[30rem] md:p-4 mt-[7rem]">
         <video
-          src="/src/assets/creators/65133a9f670011c945d927b6_MTC-LA-transcode.mp4"
+          src="/creators/65133a9f670011c945d927b6_MTC-LA-transcode.mp4"
           autoPlay
           loop
           muted
@@ -53,7 +53,7 @@ const Section1 = () => {
           </div>
           <div className="max-sm:h-fit max-sm:w-[80%] max-sm:text-center max-sm:my-10 w-[45vw] lg:pl-[6rem] bg-center object-cover">
             <img
-              src="/src/assets/creators/section1-meet.webp"
+              src="/creators/section1-meet.webp"
               alt=""
               className="object-cover rounded-3xl "
             />

@@ -42,7 +42,7 @@ const Agenda = () => {
           <p className="mt-5">Speaker:</p>
           <p>Jacqueline Tsekouras</p>
           <img
-            src="/src/assets/creators-marketing-summit/paid.svg"
+            src="/creators-marketing-summit/paid.svg"
             alt=""
             className="h-8 mt-6"
           />
@@ -68,17 +68,17 @@ const Agenda = () => {
           <p>Lori Pantel, Elayane Merriwether, Ed Romaine</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/wella.avif"
+              src="/creators-marketing-summit/wella.avif"
               alt=""
               className="h-14 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/voyages.png"
+              src="/creators-marketing-summit/voyages.png"
               alt=""
               className="h-14 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/paid.svg"
+              src="/creators-marketing-summit/paid.svg"
               alt=""
               className="h-8 mt-6"
             />
@@ -103,12 +103,12 @@ const Agenda = () => {
           <p>Matthew Kerbel, Courtney Sands</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/wella.avif"
+              src="/creators-marketing-summit/wella.avif"
               alt=""
               className="h-14 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/paid.svg"
+              src="/creators-marketing-summit/paid.svg"
               alt=""
               className="h-8 mt-6"
             />
@@ -135,17 +135,17 @@ const Agenda = () => {
           <p>Jazmin Griffith, Sarah Thomas, Chris Allen, Preeya Khanna</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/wella.avif"
+              src="/creators-marketing-summit/wella.avif"
               alt=""
               className="h-14 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/voyages.png"
+              src="/creators-marketing-summit/voyages.png"
               alt=""
               className="h-14 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/paid.svg"
+              src="/creators-marketing-summit/paid.svg"
               alt=""
               className="h-8 mt-6"
             />
@@ -156,7 +156,7 @@ const Agenda = () => {
         <div className="w-full bg-[#DDE041] p-8 rounded-2xl">
           <h1 className="text-3xl sm:text-4xl mb-4 font-custom">AM Break</h1>
           <img
-            src="/src/assets/creators-marketing-summit/coffe.avif"
+            src="/creators-marketing-summit/coffe.avif"
             alt=""
             className="h-16 my-5"
           />
@@ -181,7 +181,7 @@ const Agenda = () => {
           <p>Quentin Humphrey</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/WNG.avif"
+              src="/creators-marketing-summit/WNG.avif"
               alt=""
               className="h-8 mt-6"
             />
@@ -209,7 +209,7 @@ const Agenda = () => {
           <p>Noah Wieseneck</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/snap.avif"
+              src="/creators-marketing-summit/snap.avif"
               alt=""
               className="h-8 mt-6"
             />
@@ -220,12 +220,12 @@ const Agenda = () => {
           <h1 className="text-3xl sm:text-4xl mb-4 font-custom">Lunch</h1>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/snap.avif"
+              src="/creators-marketing-summit/snap.avif"
               alt=""
               className="h-8 mt-6"
             />
             <img
-              src="/src/assets/creators-marketing-summit/WNG.avif"
+              src="/creators-marketing-summit/WNG.avif"
               alt=""
               className="h-8 mt-6"
             />
@@ -249,7 +249,7 @@ const Agenda = () => {
           <p>Eric Yarbough, Tristan Schukraft , Vinnie Butera</p>
           <div className="flex items-center gap-9 max-sm:flex-wrap">
             <img
-              src="/src/assets/creators-marketing-summit/snap.avif"
+              src="/creators-marketing-summit/snap.avif"
               alt=""
               className="h-8 mt-6"
             />

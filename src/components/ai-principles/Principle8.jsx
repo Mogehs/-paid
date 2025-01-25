@@ -30,12 +30,12 @@ const Principle8 = () => {
           </div>
           <div className="lg:w-[40%] w-[80%] ml-10 lg:ml-0 mt-10 h-fit relative">
             <img
-              src="/src/assets/ai-principles/672d4b372830252620621a26_person-holding-phone-while-taking-a-picture.avif"
+              src="/ai-principles/672d4b372830252620621a26_person-holding-phone-while-taking-a-picture.avif"
               alt=""
               className="h-[20rem] md:h-[33rem]  rounded-3xl"
             />
             <img
-              src="/src/assets/ai-principles/672d4b255bf9fde9731ed5cb_content-analysis-chart.png"
+              src="/ai-principles/672d4b255bf9fde9731ed5cb_content-analysis-chart.png"
               alt=""
               className="absolute top-3  left-24 md:left-40 w-[8rem] md:w-[15rem]"
             />

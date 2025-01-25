@@ -21,7 +21,7 @@ const Section1 = () => {
         </div>
         <div className="w-full md:w-[50%] p-2 max-sm:mb-10">
           <img
-            src="/src/assets/ai-principles/angel-fonseca-portrait.avif"
+            src="/ai-principles/angel-fonseca-portrait.avif"
             alt=""
             className="md:w-[40rem] md:h-[24rem] lg:h-full lg:w-[36rem] w-full object-cover rounded-[4rem] "
           />

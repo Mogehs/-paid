@@ -15,7 +15,7 @@ const Hero = () => {
         </p>
         <div className="p-10">
           <img
-            src="/src/assets/ai-principles/ai-principles-hero-collage.avif"
+            src="/ai-principles/ai-principles-hero-collage.avif"
             alt=""
             className="object-cover h-[20%] w-full mx-auto lg:rounded-[4rem] rounded-xl "
           />

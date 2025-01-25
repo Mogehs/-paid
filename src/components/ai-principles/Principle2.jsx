@@ -28,12 +28,12 @@ const Principle2 = () => {
           </div>
           <div className="lg:w-[40%] w-[80%] ml-10 lg:ml-0 mt-10 h-fit relative">
             <img
-              src="/src/assets/ai-principles/woman-walking-next-to-infinity-car.avif"
+              src="/ai-principles/woman-walking-next-to-infinity-car.avif"
               alt=""
               className="h-[20rem] md:h-[33rem]  rounded-3xl"
             />
             <img
-              src="/src/assets/ai-principles/terms-and-user-agreements-ownership.png"
+              src="/ai-principles/terms-and-user-agreements-ownership.png"
               alt=""
               className="absolute top-3  left-24 md:left-40 w-[8rem] md:w-[15rem]"
             />

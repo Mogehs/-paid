@@ -29,12 +29,12 @@ const Principle1 = () => {
           </div>
           <div className="lg:w-[40%] w-[80%] ml-10 lg:ml-0 mt-10 h-fit relative">
             <img
-              src="/src/assets/ai-principles/principle1-main.avif"
+              src="/ai-principles/principle1-main.avif"
               alt=""
               className="h-[20rem] md:h-[33rem]  rounded-3xl"
             />
             <img
-              src="/src/assets/ai-principles/principle1.avif"
+              src="/ai-principles/principle1.avif"
               alt=""
               className="absolute top-3  left-24 md:left-40 w-[8rem] md:w-[15rem]"
             />

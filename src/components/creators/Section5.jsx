@@ -4,7 +4,7 @@ const Section5 = () => {
       <div className="bg-black min-h-screen flex justify-center items-center max-sm:flex-col pt-20 pb-20 rounded-[3rem] mb-10 gap-8 overflow-hidden">
         <div className="max-sm:h-fit max-sm:w-[80%] max-sm:text-center max-sm:my-10 w-[45vw]  ">
           <img
-            src="/src/assets/creators/section5.webp"
+            src="/creators/section5.webp"
             alt=""
             className="object-contain rounded-2xl"
           />

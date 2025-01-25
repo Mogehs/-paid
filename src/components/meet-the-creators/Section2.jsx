@@ -7,7 +7,7 @@ const Section2 = () => {
           professionals.”
         </p>
         <div className="text-center flex items-center justify-center mt-10">
-          <img src="/src/assets/creators/knix.svg" alt="" />
+          <img src="/creators/knix.svg" alt="" />
         </div>
         <p className="text-white text-center mt-1">@Knix</p>
       </div>
