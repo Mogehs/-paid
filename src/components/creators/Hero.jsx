@@ -27,11 +27,7 @@ const Hero = () => {
           </a>
         </p>
         <div className="mt-6">
-          <img
-            src="/src/assets/creators/stars.svg"
-            alt=""
-            className="max-sm:mx-auto"
-          />
+          <img src="/creators/stars.svg" alt="" className="max-sm:mx-auto" />
           <p className="uppercase font-customLight text-[#FF492C] mt-2 max-sm:text-center">
             "Easiest to do business with"
           </p>
@@ -39,7 +35,7 @@ const Hero = () => {
       </div>
       <div className="h-screen max-sm:h-fit max-sm:w-[80%] max-sm:text-center max-sm:my-10 w-[50vw] md:mt-20 ">
         <img
-          src="/src/assets/creators/651cbb740ed53928483e173d_creators-hero_1_5x.webp"
+          src="/creators/651cbb740ed53928483e173d_creators-hero_1_5x.webp"
           alt=""
           className="object-contain"
         />
